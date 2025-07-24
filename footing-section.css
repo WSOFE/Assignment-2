@@ -29,8 +29,10 @@
 responsive */
 @media screen and (max-width: 576px){
     .footing-section{
+    /* margin-left: 2px; */
     flex-direction: column;
     display: 100%;
+    gap: 20px;
     justify-content: left;
 }
 .footing-section-logo{
@@ -41,5 +43,8 @@ responsive */
 margin-top: 10px;
 margin-left: -40px;
 }
+/* .footing-section-img{
+    margin-top: 20px;
+} */
 }
 

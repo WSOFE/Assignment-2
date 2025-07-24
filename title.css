@@ -23,3 +23,15 @@
 .title div h1 span{
     color: darkorange;
 }
+
+/* Responsive */
+@media screen and (max-width:576px) {
+    .title div h1{
+        font-size: 2em;
+    }
+    .title div p{
+        width: 100%;
+        font-size: 1em;
+    }
+}
+/* Responsive */

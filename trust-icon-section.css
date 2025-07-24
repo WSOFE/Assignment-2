@@ -20,6 +20,16 @@
     left: 670px;
     top: 1878px;
 }
+/* responsive */
+@media screen and (max-width:576px) {
+    .absolue{
+        display: none;
+    }
+    .trust-icon-section{
+        
+    }
+}
+/* responsive */
 .trust-icon-section-list{
     font-size: 1.25em;
     margin-bottom: 15px;
