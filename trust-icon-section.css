@@ -22,14 +22,26 @@
 }
 /* responsive */
 @media screen and (max-width:576px) {
+    .trust-icon-section div h1{
+    font-size: 2em;
+}
+.trust-icon-section div ul li{
+    font-size: 1ems;
+}
     .absolue{
         display: none;
     }
     .trust-icon-section{
-        
+     width: 90%;   
+     flex-direction: column;
+     margin-bottom: 20px;
+    }
+    .trust-icon-section div img{
+        width: 100%;
     }
 }
 /* responsive */
+
 .trust-icon-section-list{
     font-size: 1.25em;
     margin-bottom: 15px;
