@@ -1,0 +1,28 @@
+.trust-icon-section{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    gap: 100px;
+    margin-top: 200px;
+}
+.trust-icon-section div h1{
+    font-size: 4em;
+}
+.trust-icon-section div ul li{
+    font-size: 2ems;
+}
+.absolue-section{
+    
+}
+.absolue{
+    position: absolute;
+    width: 200px;
+    left: 670px;
+    top: 1878px;
+}
+.trust-icon-section-list{
+    font-size: 1.25em;
+    margin-bottom: 15px;
+    color: gray;
+
+}

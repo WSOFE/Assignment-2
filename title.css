@@ -1,0 +1,25 @@
+.title{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.title div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title div h1{
+    font-size: 3em;
+}
+.title div p{
+    width: 80%;
+    text-align: center;
+    font-size: 1.5em;
+    /* margin-top: -30px; */
+}
+.title div h1 span{
+    color: darkorange;
+}
